@@ -2,7 +2,7 @@
 
 import { connect } from 'cloudflare:sockets'
 
-let yourUUID = '5dc15e15-f285-4a9d-959b-0e4fbdd77b63';  // UUID
+let yourUUID = '239df64e-9cb1-461c-8b47-9259cbff8e31';  // UUID
 let proxyIP = 'ProxyIP.SG.CMLiussss.net';  // 
 let subPath = 'link';  
 
